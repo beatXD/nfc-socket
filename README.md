@@ -1,4 +1,6 @@
 ```
-yarn socket for start socket service
-yarn nfc for start nfc reader service
+# yarn socket
+for start socket service
+# yarn nfc
+for start nfc reader service
 ```
